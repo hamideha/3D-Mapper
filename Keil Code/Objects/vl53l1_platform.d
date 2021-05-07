@@ -1,0 +1,12 @@
+.\objects\vl53l1_platform.o: vl53l1_platform.c
+.\objects\vl53l1_platform.o: tm4c1294ncpdt.h
+.\objects\vl53l1_platform.o: vl53l1_platform.h
+.\objects\vl53l1_platform.o: vl53l1_types_2dx4.h
+.\objects\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\vl53l1_platform.o: onboardLEDs.h
+.\objects\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\objects\vl53l1_platform.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
